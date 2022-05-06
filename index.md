@@ -6,46 +6,46 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: left;"><p><strong><span class="blue">USantaTecla-1-fundamentos</span></strong></p></th>
-<th style="text-align: left;"><p><strong><span class="blue">USantaTecla-2-programacion</span></strong></p></th>
-<th style="text-align: left;"><p><strong><span class="blue">USantaTecla-3-disenyo</span></strong></p></th>
+<th style="text-align: left;"><p><strong><span class="blue">USantaTecla/1-fundamentos</span></strong></p></th>
+<th style="text-align: left;"><p><strong><span class="blue">USantaTecla/2-programacion</span></strong></p></th>
+<th style="text-align: left;"><p><strong><span class="blue">USantaTecla/3-disenyo</span></strong></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
 <li><p><a href="USantaTecla/1-fundamentos/0-itinerario">0-itinerario</a></p></li>
-<li><p><a href="USantaTecla-1-fundamentos/1-patrones/index.html">1-patrones</a></p></li>
-<li><p><a href="USantaTecla-1-fundamentos/2-conocimiento/index.html">2-conocimiento</a></p></li>
-<li><p><a href="USantaTecla-1-fundamentos/3-complejidad/index.html">3-complejidad</a></p></li>
-<li><p><a href="USantaTecla-1-fundamentos/4-software/index.html">4-software</a></p></li>
-<li><p><a href="USantaTecla-1-fundamentos/5-disciplinasSoftware/index.html">5-disciplinasSoftware</a></p></li>
-<li><p><a href="USantaTecla-1-fundamentos/6-aplicacionesSoftware/index.html">6-aplicacionesSoftware</a></p></li>
-<li><p><a href="USantaTecla-1-fundamentos/7-desarrolloSoftware/index.html">7-desarrolloSoftware</a></p></li>
+<li><p><a href="USantaTecla/1-fundamentos/1-patrones/index.html">1-patrones</a></p></li>
+<li><p><a href="USantaTecla/1-fundamentos/2-conocimiento/index.html">2-conocimiento</a></p></li>
+<li><p><a href="USantaTecla/1-fundamentos/3-complejidad/index.html">3-complejidad</a></p></li>
+<li><p><a href="USantaTecla/1-fundamentos/4-software/index.html">4-software</a></p></li>
+<li><p><a href="USantaTecla/1-fundamentos/5-disciplinasSoftware/index.html">5-disciplinasSoftware</a></p></li>
+<li><p><a href="USantaTecla/1-fundamentos/6-aplicacionesSoftware/index.html">6-aplicacionesSoftware</a></p></li>
+<li><p><a href="USantaTecla/1-fundamentos/7-desarrolloSoftware/index.html">7-desarrolloSoftware</a></p></li>
 </ul></td>
 <td style="text-align: left;"><ul>
-<li><p><a href="USantaTecla-2-programacion/1-introduccion/index.html">1-introduccion</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/2-programacionEstructurada/index.html">2-programacionEstructurada</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/3-programacionBasadaObjetos/index.html">3-programacionBasadaObjetos</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/4-programacionOrientadaObjetos/index.html">4-programacionOrientadaObjetos</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/5-programacionModular/index.html">5-programacionModular</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/6-programacionExcepciones/index.html">6-programacionExcepciones</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/7-programacionParametrizada/index.html">7-programacionParametrizada</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/8-programacionEventos/index.html">8-programacionEventos</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/9-programacionConcurrente/index.html">9-programacionConcurrente</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/10-programacionRedes/index.html">10-programacionRedes</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/11-programacionBasesDatos/index.html">11-programacionBasesDatos</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/12-programacionWeb/index.html">12-programacionWeb</a></p></li>
-<li><p><a href="USantaTecla-2-programacion/13-programacionDistribuida/index.html">13-programacionDistribuida</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/1-introduccion/index.html">1-introduccion</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/2-programacionEstructurada/index.html">2-programacionEstructurada</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/3-programacionBasadaObjetos/index.html">3-programacionBasadaObjetos</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/4-programacionOrientadaObjetos/index.html">4-programacionOrientadaObjetos</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/5-programacionModular/index.html">5-programacionModular</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/6-programacionExcepciones/index.html">6-programacionExcepciones</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/7-programacionParametrizada/index.html">7-programacionParametrizada</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/8-programacionEventos/index.html">8-programacionEventos</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/9-programacionConcurrente/index.html">9-programacionConcurrente</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/10-programacionRedes/index.html">10-programacionRedes</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/11-programacionBasesDatos/index.html">11-programacionBasesDatos</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/12-programacionWeb/index.html">12-programacionWeb</a></p></li>
+<li><p><a href="USantaTecla/2-programacion/13-programacionDistribuida/index.html">13-programacionDistribuida</a></p></li>
 </ul></td>
 <td style="text-align: left;"><ul>
-<li><p><a href="USantaTecla-3-disenyo/0-itinerario/index.html">0-itinerario</a></p></li>
-<li><p><a href="USantaTecla-3-disenyo/1-disenyo/index.html">1-disenyo</a></p></li>
-<li><p><a href="USantaTecla-3-disenyo/2-disenyoModular/index.html">2-disenyoModular</a></p></li>
-<li><p><a href="USantaTecla-3-disenyo/3-disenyoOrientadoObjetos/index.html">3-disenyoOrientadoObjetos</a></p></li>
-<li><p><a href="USantaTecla-3-disenyo/4-patronesDisenyo/index.html">4-patronesDisenyo</a></p></li>
-<li><p><a href="USantaTecla-3-disenyo/5-arquitecturaSoftware/index.html">5-arquitecturaSoftware</a></p></li>
-<li><p><a href="USantaTecla-3-disenyo/6-arquitecturaMVC/index.html">6-arquitecturaMVC</a></p></li>
+<li><p><a href="USantaTecla/3-disenyo/0-itinerario/index.html">0-itinerario</a></p></li>
+<li><p><a href="USantaTecla/3-disenyo/1-disenyo/index.html">1-disenyo</a></p></li>
+<li><p><a href="USantaTecla/3-disenyo/2-disenyoModular/index.html">2-disenyoModular</a></p></li>
+<li><p><a href="USantaTecla/3-disenyo/3-disenyoOrientadoObjetos/index.html">3-disenyoOrientadoObjetos</a></p></li>
+<li><p><a href="USantaTecla/3-disenyo/4-patronesDisenyo/index.html">4-patronesDisenyo</a></p></li>
+<li><p><a href="USantaTecla/3-disenyo/5-arquitecturaSoftware/index.html">5-arquitecturaSoftware</a></p></li>
+<li><p><a href="USantaTecla/3-disenyo/6-arquitecturaMVC/index.html">6-arquitecturaMVC</a></p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -59,34 +59,34 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: left;"><p><strong><span class="blue">USantaTecla-4-pruebas</span></strong></p></th>
-<th style="text-align: left;"><p><strong><span class="blue">USantaTecla-5-rup</span></strong></p></th>
-<th style="text-align: left;"><p><strong><span class="blue">USantaTecla-6-agiles</span></strong></p></th>
+<th style="text-align: left;"><p><strong><span class="blue">USantaTecla/4-pruebas</span></strong></p></th>
+<th style="text-align: left;"><p><strong><span class="blue">USantaTecla/5-rup</span></strong></p></th>
+<th style="text-align: left;"><p><strong><span class="blue">USantaTecla/6-agiles</span></strong></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><ul>
-<li><p><a href="USantaTecla-4-pruebas/0-itinerario/index.html">0-itinerario</a></p></li>
-<li><p><a href="USantaTecla-4-pruebas/1-pruebasSoftware/index.html">1-pruebasSoftware</a></p></li>
-<li><p><a href="USantaTecla-4-pruebas/2-pruebasUnitarias/index.html">2-pruebasUnitarias</a></p></li>
-<li><p><a href="USantaTecla-4-pruebas/3-casosPruebasUnitarias/index.html">3-casosPruebasUnitarias</a></p></li>
-<li><p><a href="USantaTecla-4-pruebas/4-doblesPruebasUnitarias/index.html">4-doblesPruebasUnitarias</a></p></li>
+<li><p><a href="USantaTecla/4-pruebas/0-itinerario/index.html">0-itinerario</a></p></li>
+<li><p><a href="USantaTecla/4-pruebas/1-pruebasSoftware/index.html">1-pruebasSoftware</a></p></li>
+<li><p><a href="USantaTecla/4-pruebas/2-pruebasUnitarias/index.html">2-pruebasUnitarias</a></p></li>
+<li><p><a href="USantaTecla/4-pruebas/3-casosPruebasUnitarias/index.html">3-casosPruebasUnitarias</a></p></li>
+<li><p><a href="USantaTecla/4-pruebas/4-doblesPruebasUnitarias/index.html">4-doblesPruebasUnitarias</a></p></li>
 </ul></td>
 <td style="text-align: left;"><ul>
-<li><p><a href="USantaTecla-5-rup/0-itinerario/index.html">0-itinerario</a></p></li>
-<li><p><a href="USantaTecla-5-rup/1-requisitos/index.html">1-requisitos</a></p></li>
-<li><p><a href="USantaTecla-5-rup/2-analisis/index.html">2-analisis</a></p></li>
-<li><p><a href="USantaTecla-5-rup/3-disenyo/index.html">3-disenyo</a></p></li>
-<li><p><a href="USantaTecla-5-rup/4-implementacion/index.html">4-implementacion</a></p></li>
-<li><p><a href="USantaTecla-5-rup/5-pruebas/index.html">5-pruebas</a></p></li>
-<li><p><a href="USantaTecla-5-rup/6-gestion/index.html">6-gestion</a></p></li>
+<li><p><a href="USantaTecla/5-rup/0-itinerario/index.html">0-itinerario</a></p></li>
+<li><p><a href="USantaTecla/5-rup/1-requisitos/index.html">1-requisitos</a></p></li>
+<li><p><a href="USantaTecla/5-rup/2-analisis/index.html">2-analisis</a></p></li>
+<li><p><a href="USantaTecla/5-rup/3-disenyo/index.html">3-disenyo</a></p></li>
+<li><p><a href="USantaTecla/5-rup/4-implementacion/index.html">4-implementacion</a></p></li>
+<li><p><a href="USantaTecla/5-rup/5-pruebas/index.html">5-pruebas</a></p></li>
+<li><p><a href="USantaTecla/5-rup/6-gestion/index.html">6-gestion</a></p></li>
 </ul></td>
 <td style="text-align: left;"><ul>
-<li><p><a href="USantaTecla-6-agiles/0-itinerario/index.html">0-itinerario</a></p></li>
-<li><p><a href="USantaTecla-6-agiles/1-refactoring/index.html">1-refactoring</a></p></li>
-<li><p><a href="USantaTecla-6-agiles/2-eXtremeProgramming/index.html">2-eXtremeProgramming</a></p></li>
-<li><p><a href="USantaTecla-6-agiles/3-scrum/index.html">3-scrum</a></p></li>
+<li><p><a href="USantaTecla/6-agiles/0-itinerario/index.html">0-itinerario</a></p></li>
+<li><p><a href="USantaTecla/6-agiles/1-refactoring/index.html">1-refactoring</a></p></li>
+<li><p><a href="USantaTecla/6-agiles/2-eXtremeProgramming/index.html">2-eXtremeProgramming</a></p></li>
+<li><p><a href="USantaTecla/6-agiles/3-scrum/index.html">3-scrum</a></p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -102,41 +102,41 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5" style="text-align: left;"><p><strong><span class="blue">USantaTecla-tech</span></strong></p></th>
+<th colspan="5" style="text-align: left;"><p><strong><span class="blue">USantaTecla/tech</span></strong></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-uml/0-itinerario/index.html[uml]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-plantUml/0-itinerario/index.html[plantUml]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-yaml/0-itinerario/index.html[yaml]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-json/0-itinerario/index.html[json]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-xml/0-itinerario/index.html[xml]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-uml/0-itinerario/index.html[uml]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-plantUml/0-itinerario/index.html[plantUml]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-yaml/0-itinerario/index.html[yaml]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-json/0-itinerario/index.html[json]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-xml/0-itinerario/index.html[xml]</code></pre></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-dom/0-itinerario/index.html[dom]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-svg/0-itinerario/index.html[svg]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-html/0-itinerario/index.html[html]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-css/0-itinerario/index.html[css]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-dom/0-itinerario/index.html[dom]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-svg/0-itinerario/index.html[svg]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-html/0-itinerario/index.html[html]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-css/0-itinerario/index.html[css]</code></pre></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-javascript/0-itinerario/index.html[javascript]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-dhtml/0-itinerario/index.html[dhtml]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-ajax/0-itinerario/index.html[ajax]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-storage/0-itinerario/index.html[storage]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-react/0-itinerario/index.html[react]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-javascript/0-itinerario/index.html[javascript]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-dhtml/0-itinerario/index.html[dhtml]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-ajax/0-itinerario/index.html[ajax]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-storage/0-itinerario/index.html[storage]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-react/0-itinerario/index.html[react]</code></pre></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-java/0-itinerario/index.html[java]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-swing/0-itinerario/index.html[swing]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-tcp-ip/0-itinerario/index.html[tcp/ip]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-files/0-itinerario/index.html[files]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-sql/0-itinerario/index.html[sql]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-java/0-itinerario/index.html[java]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-swing/0-itinerario/index.html[swing]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-tcp-ip/0-itinerario/index.html[tcp/ip]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-files/0-itinerario/index.html[files]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-sql/0-itinerario/index.html[sql]</code></pre></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-junit/0-itinerario/index.html[junit]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla-tech-mockito/0-itinerario/index.html[mockito]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-junit/0-itinerario/index.html[junit]</code></pre></td>
+<td style="text-align: left;"><pre><code>link:USantaTecla/tech-mockito/0-itinerario/index.html[mockito]</code></pre></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
