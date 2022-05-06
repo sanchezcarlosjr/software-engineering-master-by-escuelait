@@ -254,4 +254,7 @@ a|- *[blue]#Omatech#*
 
 
 |===
+<<<<<<< HEAD
 
+=======
+>>>>>>> ffdd44111fe709e1c3e0093dd4dbb1042ec6dab0
