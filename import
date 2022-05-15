@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+git fetch upstream
+curl https://raw.githubusercontent.com/USantaTecla-0-general/0-panelControl/master/src/docs/asciidoc/index.adoc > index.adoc
+asciidoc -b docbook index.adoc
+pandoc -f docbook -t markdown_strict index.xml -o index.md
+rm index.xml
+rm index.adoc
+sed -i 's/\.\.\/\.\.\/\.\.\/\.\.\/\.\.\///g' index.md
+sed -i 's/USantaTecla-/USantaTecla\//g' index.md
+sed -i 's/\/build\/docs\/asciidoc//g' index.md
