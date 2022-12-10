@@ -502,19 +502,114 @@ Códigos disponibles en <a href="https://github.com/USantaTecla-tech-dhtml">git<
 <div class="sect1">
 <h2 id="por-qué"><strong>¿Por qué?</strong></h2>
 <div class="sectionbody">
-
+<div class="imageblock">
+<div class="content">
+<img src="images/contexto.svg" alt="contexto" width="1770" height="1022">
+</div>
+</div>
 </div>
 </div>
 <div class="sect1">
 <h2 id="qué"><strong>¿Qué?</strong></h2>
 <div class="sectionbody">
-
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 15%;">
+<col style="width: 55%;">
+<col style="width: 30%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top"><strong class="blue">Páginas Estáticas</strong></th>
+<th class="tableblock halign-left valign-top"><strong class="green">HTML Dinámico</strong></th>
+<th class="tableblock halign-left valign-top"><strong class="red">Páginas Dinámicas</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><div class="ulist">
+<ul>
+<li>
+<p><strong class="blue">Páginas HTML construidas en tiempo de compilación</strong>,</p>
+<div class="ulist">
+<ul>
+<li>
+<p><strong class="blue">previo a la petición</strong></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div></div></td>
+<td class="tableblock halign-left valign-top"><div class="content"><div class="ulist">
+<ul>
+<li>
+<p>DHTML es la abreviatura de <em class="green"><strong>Dynamic HTML</strong></em>, se refiere al código del que están hechas las páginas web interactivas: <em class="green"><strong>HTML + CSS + JavaScript</strong></em></p>
+<div class="ulist">
+<ul>
+<li>
+<p>que <strong class="green">se modifican conforme el usuario interactúa con ellas</strong></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div></div></td>
+<td class="tableblock halign-left valign-top"><div class="content"><div class="ulist">
+<ul>
+<li>
+<p><strong class="red">Páginas HTML generadas tiempo de ejecución</strong> por parte del servidor tras consultar datos (sistema gestor de base de datos, servicios de información, &#8230;&#8203;) y construir la página HTML</p>
+<div class="ulist">
+<ul>
+<li>
+<p><strong class="red">posterior a la petición</strong></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div></div></td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 <div class="sect1">
 <h2 id="para-qué"><strong>¿Para qué?</strong></h2>
 <div class="sectionbody">
-
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top" colspan="2"><div class="content"><div class="ulist">
+<ul>
+<li>
+<p>Para dar "vida" (flujo de ejecución) a la <strong class="green">presentación de la página HTML en el Navegador dinámicamente</strong> para mejorar la <strong class="green">experiencia de usuario</strong>:</p>
+</li>
+</ul>
+</div></div></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><div class="ulist">
+<ul>
+<li>
+<p><strong class="green">Usabilidad</strong>: despliega menúes, reacciona al cursor, teclas rápidas, &#8230;&#8203;</p>
+</li>
+</ul>
+</div></div></td>
+<td class="tableblock halign-left valign-top"><div class="content"><div class="ulist">
+<ul>
+<li>
+<p><strong class="green">Eficiencia</strong>: evita peticiones al servidor con validación de los campos del formulario, &#8230;&#8203;</p>
+</li>
+</ul>
+</div></div></td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 <div class="sect1">
@@ -717,7 +812,7 @@ Códigos disponibles en <a href="https://github.com/USantaTecla-tech-dhtml">git<
 <span class="tag">&lt;body</span> <span class="attribute-name">id</span>=<span class="string"><span class="delimiter">&quot;</span><span class="content">body</span><span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>
   <span class="tag">&lt;script&gt;</span>
 <span class="inline">    let bodyElement = document.getElementById(<span class="string"><span class="delimiter">&quot;</span><span class="content">body</span><span class="delimiter">&quot;</span></span>);
-    bodyElement.innerHTML = <span class="string"><span class="delimiter">&quot;</span><span class="content">&lt;h1&gt;Título&lt;/h1&gt;</span><span class="delimiter">&quot;</span></span>;
+    bodyElement.innerHTML = <span class="string"><span class="delimiter">&quot;</span><span class="content">&lt;h1&gt;Título con innerHTML&lt;/h1&gt;</span><span class="delimiter">&quot;</span></span>;
     bodyElement.innerHTML += <span class="string"><span class="delimiter">&quot;</span><span class="content">&lt;p&gt;Párrafo&lt;/p&gt;</span><span class="delimiter">&quot;</span></span>;</span>
   <span class="tag">&lt;/script&gt;</span>
 <span class="tag">&lt;/body&gt;</span>
@@ -741,21 +836,14 @@ Códigos disponibles en <a href="https://github.com/USantaTecla-tech-dhtml">git<
 <tbody>
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><a href="https://github.com/USantaTecla-tech-dhtml/src/blob/master/2-CSSyJS/sistemasNumeracion/JS%20DOM.%20Numeral%20Systems.html">numberSystem</a></p>
+<p><a href="">Tablas de Provincias</a> - <a href="https://github.com/USantaTecla-tech-dhtml/src/blob/master/provincias/JS%20DOM%20write.%20Tablas%20de%20Provincias.html"><em>solución</em></a> - <a href="https://github.com/USantaTecla-tech-dhtml/src/blob/master/provincias/JS%20DOM%20element.%20Tablas%20de%20Provincias.html"><em>solución</em></a> - <a href="https://github.com/USantaTecla-tech-dhtml/src/blob/master/provincias/JS%20DOM%20innerHTML.%20Tablas%20de%20Provincias.html"><em>solución</em></a> - <a href="https://github.com/USantaTecla-tech-dhtml/src/tree/master/provincias/funciones"><em>solución</em></a></p>
 </div></div></td>
 <td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><a href="https://github.com/USantaTecla-tech-dhtml/src/tree/master/combinations">colorCombination</a></p>
+<p><a href="">Coercion en JavaScript</a> - <a href="https://github.com/USantaTecla-tech-dhtml/tool-jsCoercion/tree/master/v0"><em>solución</em></a></p>
 </div></div></td>
 <td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><a href="https://github.com/USantaTecla-tech-dhtml/tool-jsCoercion">javascriptCoercion</a></p>
+<p><a href="">Expresiones en JavaScript</a> - <a href="https://github.com/USantaTecla-tech-dhtml/src/tree/master/expresionesJavascript"><em>solución</em></a></p>
 </div></div></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><a href="https://github.com/USantaTecla-tech-dhtml/tool-goldenNumber">goldenNumber</a></p>
-</div></div></td>
-<td class="tableblock halign-left valign-top"><div class="content"></div></td>
-<td class="tableblock halign-left valign-top"><div class="content"></div></td>
 </tr>
 </tbody>
 </table>
@@ -2598,23 +2686,25 @@ mousewheel	Deprecated. Use the wheel event instead</p>
 <tbody>
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><a href="https://github.com/USantaTecla-tech-dhtml/tool-numberingSystem">numberSystem</a></p>
+<p><a href="">tool-cssBoxModel</a> - <a href="https://github.com/USantaTecla-tech-dhtml/tool-cssBoxModel/tree/master/v0.0"><em>solución</em></a> - <a href=""><em>solución</em></a> - <a href=""><em>solución</em></a> - <a href=""><em>solución</em></a></p>
 </div></div></td>
 <td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><a href="https://github.com/USantaTecla-tech-dhtml/tool-euclides">euclidesAlgortithm</a></p>
+<p><a href="">tool-cssLayout</a> - <a href="https://github.com/USantaTecla-tech-dhtml/tool-cssLayout/tree/master/dhtml"><em>solución</em></a></p>
 </div></div></td>
 <td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><a href="https://github.com/USantaTecla-tech-dhtml/tool-grid">grid</a></p>
+<p><a href="">tool-goldenNumber</a> - <a href="https://github.com/USantaTecla-tech-dhtml/tool-goldenNumber/tree/master/dhtml"><em>solución</em></a></p>
 </div></div></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><a href="https://github.com/USantaTecla-tech-dhtml/tool-cssBoxModel">cssBoxModel</a></p>
+<p><a href="">tool-euclides</a> - <a href="https://github.com/USantaTecla-tech-dhtml/tool-euclides/tree/master/dhtml"><em>solución</em></a></p>
 </div></div></td>
 <td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><a href="https://github.com/USantaTecla-tech-dhtml/tool-cssLayout">cssLayout</a></p>
+<p><a href="">tool-numberingSystem</a> - <a href="https://github.com/USantaTecla-tech-dhtml/tool-numberingSystem/tree/master/dhtml"><em>solución</em></a></p>
 </div></div></td>
-<td class="tableblock halign-left valign-top"><div class="content"></div></td>
+<td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
+<p><a href="">tool-grid</a> - <a href="https://github.com/USantaTecla-tech-dhtml/tool-grid/tree/master/0-imperativeGrid/v0.0"><em>solución</em></a> - <a href="https://github.com/USantaTecla-tech-dhtml/tool-grid/tree/master/1-declarativeGrid/v0.0"><em>solución</em></a></p>
+</div></div></td>
 </tr>
 </tbody>
 </table>
@@ -2741,9 +2831,9 @@ mousewheel	Deprecated. Use the wheel event instead</p>
     <span class="tag">&lt;/script&gt;</span>
   <span class="tag">&lt;/head&gt;</span>
   <span class="tag">&lt;body</span> <span class="attribute-name">onload</span>=<span class="string"><span class="delimiter">&quot;</span>get();<span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>
-    <span class="tag">&lt;a</span> <span class="attribute-name">href</span>=<span class="string"><span class="delimiter">&quot;</span><span class="content">JS BOM. Storage Grabar.html</span><span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>Grabar<span class="tag">&lt;/a&gt;</span>
-    <span class="tag">&lt;br&gt;</span>
     <span class="tag">&lt;a</span> <span class="attribute-name">href</span>=<span class="string"><span class="delimiter">&quot;</span><span class="content">JS BOM. Storage Borrar.html</span><span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>Borrar<span class="tag">&lt;/a&gt;</span>
+    <span class="tag">&lt;br&gt;</span>
+    <span class="tag">&lt;a</span> <span class="attribute-name">href</span>=<span class="string"><span class="delimiter">&quot;</span><span class="content">JS BOM. Storage Grabar.html</span><span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>Grabar<span class="tag">&lt;/a&gt;</span>
   <span class="tag">&lt;/body&gt;</span>
 <span class="tag">&lt;/html&gt;</span></code></pre>
 </div>
@@ -2765,9 +2855,9 @@ mousewheel	Deprecated. Use the wheel event instead</p>
   <span class="tag">&lt;/head&gt;</span>
   <span class="tag">&lt;body</span> <span class="attribute-name">onload</span>=<span class="string"><span class="delimiter">&quot;</span>remove();<span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>
     <span class="tag">&lt;p&gt;</span>Dato borrado!!!<span class="tag">&lt;/p&gt;</span>
-    <span class="tag">&lt;a</span> <span class="attribute-name">href</span>=<span class="string"><span class="delimiter">&quot;</span><span class="content">JS BOM. Storage Grabar.html</span><span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>Grabar<span class="tag">&lt;/a&gt;</span>
-    <span class="tag">&lt;br&gt;</span>
     <span class="tag">&lt;a</span> <span class="attribute-name">href</span>=<span class="string"><span class="delimiter">&quot;</span><span class="content">JS BOM. Storage Consultar.html</span><span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>Consultar<span class="tag">&lt;/a&gt;</span>
+    <span class="tag">&lt;br&gt;</span>
+    <span class="tag">&lt;a</span> <span class="attribute-name">href</span>=<span class="string"><span class="delimiter">&quot;</span><span class="content">JS BOM. Storage Grabar.html</span><span class="delimiter">&quot;</span></span><span class="tag">&gt;</span>Grabar<span class="tag">&lt;/a&gt;</span>
   <span class="tag">&lt;/body&gt;</span>
 <span class="tag">&lt;/html&gt;</span></code></pre>
 </div>
@@ -2870,7 +2960,7 @@ mousewheel	Deprecated. Use the wheel event instead</p>
 <div id="footer">
 <div id="footer-text">
 Version 0.0.1<br>
-Last updated 2022-03-19 11:58:08 +0100
+Last updated 2022-11-14 10:20:04 +0100
 </div>
 </div>
 <style>
