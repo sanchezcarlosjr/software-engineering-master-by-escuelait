@@ -162,7 +162,7 @@ class="blue">USantaTecla/tech</span></strong></p></th>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">
-  <a href="USantaTecla/tech-uml/0-itinerario/index.html">uml</a>  
+  <a href="USantaTecla/tech-uml">uml</a>  
 </td>
 <td style="text-align: left;"><pre><code>link:USantaTecla/tech-plantUml/0-itinerario/index.html[plantUml]</code></pre></td>
 <td style="text-align: left;"><pre><code>link:USantaTecla/tech-yaml/0-itinerario/index.html[yaml]</code></pre></td>
