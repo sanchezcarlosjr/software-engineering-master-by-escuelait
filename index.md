@@ -32,9 +32,9 @@ href="USantaTecla/1-fundamentos/5-disciplinasSoftware/index.html">5-disciplinasS
 <li><p><a
 href="USantaTecla/1-fundamentos/6-procesoSoftware/index.html">6-procesoSoftware</a></p></li>
 <li><p><a
-href="USantaTecla/1-fundamentos/7-aplicacionesWeb/index.html">7-aplicacionesWeb</a></p></li>
+href="USantaTecla/1-fundamentos/7-aplicacionesSoftware/index.html">7-aplicacionesSoftware</a></p></li>
 <li><p><a
-href="USantaTecla/1-fundamentos/8-aplicacionesSoftware/index.html">8-aplicacionesSoftware</a></p></li>
+href="USantaTecla/1-fundamentos/8-aplicacionesWeb/">8-aplicacionesWeb</a></p></li>
 </ul></td>
 <td style="text-align: left;"><ul>
 <li><p><a
