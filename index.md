@@ -161,67 +161,65 @@ class="blue">USantaTecla/tech</span></strong></p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">
-  <a href="USantaTecla/tech-uml">uml</a>  
-</td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-plantUml/0-itinerario/index.html[plantUml]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-yaml/0-itinerario/index.html[yaml]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-json/0-itinerario/index.html[json]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-xml/0-itinerario/index.html[xml]</code></pre></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-uml">uml</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-plantUml">plantUml</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-yaml">yaml</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-json">json</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-xml">xml</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-xmlSchema/0-itinerario/index.html[xmlSchema]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-dom/0-itinerario/index.html[dom]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-xPath/0-itinerario/index.html[xPath]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-sql/0-itinerario/index.html[sql]</code></pre></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-xmlSchema">xmlSchema</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-dom">dom</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-xPath">xPath</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-sql">sql</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-svg/0-itinerario/index.html[svg]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-html/0-itinerario/index.html[html]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-css/0-itinerario/index.html[css]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-bootstrap/0-itinerario/index.html[bootstrap]</code></pre></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-svg">svg</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-html">html</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-css">css</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-bootstrap">bootstrap</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-javascript/0-itinerario/index.html[javascript]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-dhtml/0-itinerario/index.html[dhtml]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-ajax/0-itinerario/index.html[ajax]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-storage/0-itinerario/index.html[storage]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-react/0-itinerario/index.html[react]</code></pre></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-javascript">javascript</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-dhtml">dhtml</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-ajax">ajax</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-storage">storage</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-react">react</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><pre><code>canvas</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-jquery/0-itinerario/index.html[jquery]</code></pre></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-jquery">jquery</a></td>
 <td style="text-align: left;"><pre><code>bootstrap</code></pre></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-java/0-itinerario/index.html[java]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-swing/0-itinerario/index.html[swing]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-tcp-ip/0-itinerario/index.html[tcp/ip]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-files/0-itinerario/index.html[files]</code></pre></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-java">java</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-swing">swing</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-tcp">tcp/ip</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-files">files</a></td>
 <td style="text-align: left;"><pre><code>spring</code></pre></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-jdbc/0-itinerario/index.html[jdbc R]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-servlets/0-itinerario/index.html[servlets R]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-jsp/0-itinerario/index.html[jsp R]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-rmi/0-itinerario/index.html[rmi R]</code></pre></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-jdbc">jdbc R</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-servlets">servlets R</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-jsp">jsp R</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-rmi">rmi R</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-semaphores/0-itinerario/index.html[semaphores R]</code></pre></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-semaphores">semaphores R</a></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><pre><code>jest</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-junit/0-itinerario/index.html[junit R]</code></pre></td>
-<td style="text-align: left;"><pre><code>link:USantaTecla/tech-mockito/0-itinerario/index.html[mockito R]</code></pre></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-junit">junit R</a></td>
+<td style="text-align: left;"><a href="USantaTecla/tech-mockito">mockito R</a></td>
 <td style="text-align: left;"><pre><code>jmeter</code></pre></td>
 <td style="text-align: left;"><pre><code>selenium</code></pre></td>
 </tr>
