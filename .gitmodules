@@ -1,3 +1,21 @@
 [submodule "tool-grid"]
 	path = tool-grid
 	url = git@github.com:USantaTecla-tech-dhtml/tool-grid.git
+[submodule "tool-jsCoercion"]
+	path = tool-jsCoercion
+	url = git@github.com:USantaTecla-tech-dhtml/tool-jsCoercion.git
+[submodule "tool-euclides"]
+	path = tool-euclides
+	url = git@github.com:USantaTecla-tech-dhtml/tool-euclides.git
+[submodule "tool-goldenNumber"]
+	path = tool-goldenNumber
+	url = git@github.com:USantaTecla-tech-dhtml/tool-goldenNumber.git
+[submodule "tool-numberingSystem"]
+	path = tool-numberingSystem
+	url = git@github.com:USantaTecla-tech-dhtml/tool-numberingSystem.git
+[submodule "tool-cssBoxModel"]
+	path = tool-cssBoxModel
+	url = git@github.com:USantaTecla-tech-dhtml/tool-cssBoxModel.git
+[submodule "tool-cssLayout"]
+	path = tool-cssLayout
+	url = git@github.com:USantaTecla-tech-dhtml/tool-cssLayout.git
