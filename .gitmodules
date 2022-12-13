@@ -19,3 +19,6 @@
 [submodule "tool-cssLayout"]
 	path = tool-cssLayout
 	url = git@github.com:USantaTecla-tech-dhtml/tool-cssLayout.git
+[submodule "src"]
+	path = src
+	url = git@github.com:USantaTecla-tech-dhtml/src.git
